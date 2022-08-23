@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Theresa Tran</h1>
 <h3 align="center">🙆🏻‍♀️ she/her/hers</h3>
-<p align="center">A passionate full stack developer from California 📍</p>
+<p align="center">I'm a passionate Full Stack Developer 💻, Photographer 📸, and Designer 🎨 from California 📍</p>
 
 - 🌱 I’m currently learning **TypeScript and WordPress.**
 
