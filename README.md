@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Theresa Tran</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 🌱 I’m currently learning **TypeScript, WordPress**
+- 🌱 I’m currently learning **TypeScript and WordPress.**
 
-- 💬 Ask me about **my passions**
-
-- 📫 How to reach me **theresa.tran216@gmail.com**
+- 💬 Ask me about **my passions!**
 
 - ⚡ Fun fact **I think I am funny and factual.**
+
+- 📫 Reach me at **theresa.tran216@gmail.com** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
