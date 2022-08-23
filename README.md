@@ -1,14 +1,12 @@
-<h1 align="center">Hello there, I'm Theresa Tran 🙆🏻‍♀️</h1>
+<h1 align="center">Hello there, I'm Theresa Tran!</h1>
 <h3 align="center">she | her | hers</h3>
 <p align="center">I'm a passionate Full Stack Developer 💻, Photographer 📸, and Designer 🎨 from California 📍</p>
 
-- 🌱 I’m currently learning **TypeScript and WordPress.**
+- I’m currently learning **TypeScript and WordPress.**
 
-- Ask me about **my passions!** 💬
+- Fun fact: I'm a plant enthusiast! 🌱 
 
-- ⚡ Fun fact: I'm a plant enthusiast!
-
-- Reach me at **theresa.tran216@gmail.com** 📫
+- 📫 Reach me at **theresa.tran216@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
