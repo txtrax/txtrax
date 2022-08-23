@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **my passions**
 
-- 📫 How to reach me **www.linkedin.com/in/theresatee**
+- 📫 How to reach me **theresa.tran216@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and factual.**
 
