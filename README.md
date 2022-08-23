@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
