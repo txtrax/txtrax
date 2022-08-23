@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript and WordPress.**
 
-- 💬 Ask me about **my passions!**
+- Ask me about **my passions!** 💬
 
 - ⚡ Fun fact **I think I am funny and factual.** Colleagues say I have a sarcastic deadpan, but I don't think so..
 
-- 📫 Reach me at **theresa.tran216@gmail.com** :)
+- Reach me at **theresa.tran216@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
