@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theresa Tran</h1>
-<h3 align="center">🙆🏻‍♀️ she/her/hers</h3>
+<center>🙆🏻‍♀️ she/her/hers</center>
 <h3 align="center">A passionate full stack developer from California 📍</h3>
 
 - 🌱 I’m currently learning **TypeScript and WordPress.**
