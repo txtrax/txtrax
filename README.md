@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **TypeScript, WordPress**
 
-- 👨‍💻 All of my projects are available at [here](here)
-
 - 💬 Ask me about **my passions**
 
 - 📫 How to reach me **www.linkedin.com/in/theresatee**
