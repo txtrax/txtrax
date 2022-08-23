@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **my passions!**
 
-- ⚡ Fun fact **I think I am funny and factual.**
+- ⚡ Fun fact **I think I am funny and factual.** Colleagues say I have a sarcastic deadpan, but I don't think so..
 
 - 📫 Reach me at **theresa.tran216@gmail.com** :)
 
