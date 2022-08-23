@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Theresa Tran!</h1>
 <h3 align="center">she | her | hers</h3>
 <p align="center">I'm a passionate Full Stack Developer from California and currently learning <b>TypeScript</b> and <b>WordPress</b>.</p>
-<p align="center">Fun facts: 📸 Photographer, 🎨 Designer, and 🌱 Plant Enthusiast!</p>
+<p align="center">Fun facts: 📸 Photographer, 🎨 Designer, and 🌎 Traveler</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/theresatee/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
