@@ -2,15 +2,16 @@
 <h3 align="center">she | her | hers</h3>
 <p align="center">I'm a passionate Full Stack Developer from California and currently learning <b>TypeScript</b> and <b>WordPress</b>.</p>
 <p align="center">Fun facts: 📸 Photographer, 🎨 Designer, and 🌎 Traveler</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/theresatee/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 <p align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
