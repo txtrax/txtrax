@@ -23,6 +23,9 @@
 - 💬 Ask me about microbiology and teaching!
 </p>
 
+<h3 align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
+</h3>
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=for-the-badge)
 ![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge)
@@ -57,8 +60,3 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-<p align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
-</p>
-
-
