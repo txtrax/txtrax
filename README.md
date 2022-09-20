@@ -20,7 +20,7 @@
 <br>
 - 🤔 Curious about Redis and React Routers.
 <br>
-- 💬 Ask me about microbiology and teaching!
+- 💬 Ask me about microbiology 🦠 and teaching 📚!
 </p>
 
 <h3 align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
