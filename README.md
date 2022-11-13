@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Theresa Tran!</h1>
 <h3 align="center">📸 Photographer&emsp;|&emsp;🎨 Designer&emsp;|&emsp;🌎 Traveler</h3>
-<p align="center">I'm a passionate Full Stack Software Engineer who strives to write elegant code and to create friendly user interfaces. I am a lifelong learner and embrace the opportunities to take on new challenges!</p>
+<p align="center">I'm a passionate Full Stack Software Engineer who strives to write elegant code and to create friendly user interfaces. I am a lifelong learner and an embracer of new challenges!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/theresatee/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
