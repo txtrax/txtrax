@@ -23,7 +23,8 @@
 - 💬 Ask me about microbiology 🦠, conciousness 🧠, voice perception 👂, and teaching 📚!
 </p>
 
-<h3 align="center">🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
+<h3 align="center">
+  🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱&emsp;&emsp;🌱
 </h3>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
