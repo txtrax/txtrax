@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Theresa Tran!</h1>
+<h1 align="center">Welcome visitor, I'm Theresa Tran!</h1>
 <h3 align="center">📸 Photographer&emsp;|&emsp;🎨 Designer&emsp;|&emsp;🌎 Traveler</h3>
 <p align="center">I'm a passionate Full Stack Software Engineer who strives to write modular code and to create friendly user interfaces. I am a lifelong learner and an embracer of new challenges!</p>
 <p align="center">
